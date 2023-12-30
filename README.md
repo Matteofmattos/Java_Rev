@@ -1,2 +1,2 @@
 # Revisao_Java
-Trata-se de todas as funcionalidades de java, desde classes a streams.
+Trata-se de algumas funcionalidades de java, desde classes a streams.
